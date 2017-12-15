@@ -1,4 +1,4 @@
-package com.example.bhupendra.myapplication;
+package com.example.bhupendra.cryptoprice;
 
 import org.junit.Test;
 

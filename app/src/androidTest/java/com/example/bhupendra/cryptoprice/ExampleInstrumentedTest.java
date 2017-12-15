@@ -1,4 +1,4 @@
-package com.example.bhupendra.myapplication;
+package com.example.bhupendra.cryptoprice;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
